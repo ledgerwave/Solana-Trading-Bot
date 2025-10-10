@@ -29,7 +29,7 @@ A real-time Solana wallet monitoring and copy trading bot built with Python and 
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ledgerwave/Solana-Trading-Bot.git
    cd solana-trading-bot
    ```
 
