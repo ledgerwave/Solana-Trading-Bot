@@ -22,11 +22,11 @@ class Settings(BaseSettings):
     
     # Bot Configuration
     bot_wallet_address: str = Field(
-        default="CyfmfVzK3a4415q9qKfvwem3nyQ6EoQsbykjB2pUmpoz",
+        default="",
         description="Your wallet address for copy trading"
     )
     bot_private_key: str = Field(
-        default="2x2cyLvtqU1RkDDCBHiRRrbX6DgQ5Cqzyj4eLwZQ8T57kokC82pVw7ZgHWD5V6UdVgcQpQVBM31DA8EXWMivmgak",
+        default="",
         description="Your wallet private key (base58 encoded)"
     )
     
